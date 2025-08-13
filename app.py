@@ -47,7 +47,7 @@ def text_transform(text):
 
 
 
-st.title("Spam Email Classifier")
+st.title("SMS Spam Classifier")
 
 input_sms = st.text_area("Enter the message")
 if st.button('Predict'):
