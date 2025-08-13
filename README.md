@@ -108,12 +108,6 @@ Contributions are welcome! Feel free to submit:
 
 ---
 
-## License
-
-Specify your chosen license here (e.g., MIT License) or indicate "All rights reserved" if applicable.
-
----
-
 ## Contact
 
 For questions or feedback, reach out via GitHub or your preferred contact method.
