@@ -6,6 +6,7 @@ from wordcloud import WordCloud
 # Download NLTK resources if not already downloaded
 nltk.download('punkt')
 nltk.download('stopwords') 
+nltk.download('punkt_tab')
 
 model=pickle.load(open('model.pkl', 'rb'))
 tfidf=pickle.load(open('vectorizer.pkl', 'rb'))
